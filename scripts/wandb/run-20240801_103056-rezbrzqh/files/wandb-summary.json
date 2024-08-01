@@ -1,0 +1,1 @@
+{"train_loss:": 0.554710328578949, "_timestamp": 1722534462.4230034, "_runtime": 26205.630345344543, "_step": 131, "val_loss:": 3.2321143373847008, "bleu_score_greedy": 26.79, "max_bleu_score": 26.79}
